@@ -2,7 +2,7 @@ title: Benvido a Formaweb IV
 author: sformaweb
 email: email@email.com
 description: > # this means to ignore newlines until "baseurl:"
-  Este é o blog de Formaweb IV, un programa de emprego do Concello de Vigo. O obxectivo é aprender a desenvolver aplicacións web con HTML, CSS e JavaScript.
+  Este é o blog de Formaweb IV, un programa de emprego do Concello de Vigo.
 
 # social links
 twitter_username: abelcaballero # DO NOT include the @ character, or else the build will fail!
